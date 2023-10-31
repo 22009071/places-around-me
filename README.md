@@ -7,6 +7,13 @@ To develop a website to display details about the places around my house.
 ### Step 1:
 Write your own steps here.
 ### Step 2:
+Create a new Django project
+
+### Step 3:
+Write the needed HTML code.
+
+### Step 4:
+Run the Django server and execute the HTML files.
 
 ## Code:
 home html
@@ -178,7 +185,16 @@ apollopharmacy html
 
 ```
 ## Output:
-Include your output screenshot here
+<img width="960" alt="Screenshot 2023-10-31 210344" src="https://github.com/22009071/places-around-me/assets/120206067/49ae24d8-7e6a-48fd-bfc5-33dad728b46a">
+
+<img width="960" alt="Screenshot 2023-10-31 211154" src="https://github.com/22009071/places-around-me/assets/120206067/ebfdaecd-76b6-448f-887e-d519c2c2f8cd">
+<img width="959" alt="Screenshot 2023-10-31 211215" src="https://github.com/22009071/places-around-me/assets/120206067/e868d9e3-84aa-498a-a407-a10885611398">
+<img width="960" alt="Screenshot 2023-10-31 211242" src="https://github.com/22009071/places-around-me/assets/120206067/79834169-0468-4073-898e-d706f0ecf0cd">
+
+<img width="960" alt="Screenshot 2023-10-31 211902" src="https://github.com/22009071/places-around-me/assets/120206067/18ca899c-7570-43e2-9a6a-ff88444b14cd">
+
+
 
 ## Result:
-Write your result
+
+Thus the program for Places Around me is executed Successfully.
