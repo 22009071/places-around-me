@@ -32,7 +32,6 @@ home html
 <map name="image-map">
     <area target="_self" alt="BUS STAND" title="BUS STAND" href="Busstand.html" coords="738,285,130" shape="circle">
         <area target="_self" alt="COFFEE SHOP" title="COFFEE SHOP" href="ayngarancoffee.html" coords="516,429,126" shape="circle">
-    <area target="_self" alt="SBI BANK" title="SBI BANK" href="sbi.html" coords="861,796,130" shape="circle">
     <area target="_self" alt="APOLLO" title="APOLLO" href="apollopharmacy.html" coords="739,468,893,547" shape="rect">
     <area target="_self" alt="POST OFFICE" title="POST OFFICE" href="postoffice.html" coords="1046,349,1228,466" shape="rect">
 </map>
